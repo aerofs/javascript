@@ -147,7 +147,7 @@
     ```
 
 ## Parentheses
-  - Wrap JSX tags in parentheses when they span more than one line:
+  - Wrap JSX tags in parentheses:
     ```javascript
     /// bad
     render() {
@@ -165,10 +165,10 @@
       );
     }
 
-    // good, when single line
+    // good
     render() {
       const body = <div>hello</div>;
-      return <MyComponent>{body}</MyComponent>;
+      return (<MyComponent>{body}</MyComponent>);
     }
     ```
 
