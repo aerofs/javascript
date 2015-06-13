@@ -583,32 +583,6 @@ This guide is for the ES5 spec, since much of our code has to support pre-11 Int
     }
     ```
 
-  - Use shortcuts.
-
-    ```javascript
-    // bad
-    if (name !== '') {
-      // ...stuff...
-    }
-
-    // good
-    if (name) {
-      // ...stuff...
-    }
-
-    // bad
-    if (collection.length > 0) {
-      // ...stuff...
-    }
-
-    // good
-    if (collection.length) {
-      // ...stuff...
-    }
-    ```
-
-  - For more information see [Truth Equality and JavaScript](http://javascriptweblog.wordpress.com/2011/02/07/truth-equality-and-javascript/#more-2108) by Angus Croll.
-
 **[⬆ back to top](#table-of-contents)**
 
 
