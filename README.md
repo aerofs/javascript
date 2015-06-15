@@ -4,7 +4,7 @@
 
 *A mostly reasonable approach to JavaScript. Based on [Airbnb's style guide](https://github.com/airbnb/javascript/tree/master/es5).*
 
-This guide is for the ES5 spec, since much of our code has to support pre-11 Internet Explorer browsers. If the project you are working on does not have that limitation, [check out the ES6 style guide](es6/).
+This guide is for the ES5 spec, since much of our code has to support pre-11 Internet Explorer browsers. If the project you are working on does not have that limitation, [check out the ES6 style guide](es6/) after you read this for ES6-specific recommendations.
 
 
 ## Table of Contents
