@@ -1,4 +1,6 @@
-# AeroFS JavaScript Style Guide() {
+# AeroFS Frontend Style Guide;
+
+# Javascript() {
 
 *A mostly reasonable approach to JavaScript. Based on [Airbnb's style guide](https://github.com/airbnb/javascript/tree/master/es5).*
 
