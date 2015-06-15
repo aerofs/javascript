@@ -1,4 +1,4 @@
-# AeroFS Frontend Style Guide;
+# AeroFS Frontend Style Guide
 
 # Javascript() {
 
