@@ -20,6 +20,7 @@
 
 ## Additional tips
 
+* Check out [https://www.aerofs.com/styleguide/](https://www.aerofs.com/styleguide/) for the AeroFS color scheme and common styles on the marketing website.
 * Primary button: Use `.btn-primary` only for positive features, e.g. add a user, join a team, etc. Don't use it for negative features like removing users and leaving a team. Use `.btn-default` or `.btn-danger` when appropriate.
 * Page title: Use `<h2>` for page titles. Only capitalize the first letter of the entire title.
 * Dialog title: Use `<h4>` for all dialog titles. Only capitalize the first letter of the entire title.
