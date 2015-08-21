@@ -736,22 +736,22 @@ This guide is for the ES5 spec, since much of our code has to support pre-11 Int
 
 ## Whitespace
 
-  - Use soft tabs set to 2 spaces.
+  - Use soft tabs set to 4 spaces.
 
     ```javascript
-    // bad
-    function() {
-    ∙∙∙∙var name;
-    }
-
     // bad
     function() {
     ∙var name;
     }
 
-    // good
+    // eh
     function() {
     ∙∙var name;
+    }
+    
+    // good
+    function() {
+    ∙∙∙∙var name;
     }
     ```
 
